@@ -20,7 +20,7 @@
 
 ## 2. Spring에서 ORM 프레임워크
 
-- **JPA (Java Persistence API)** : 자바 진영에서 정의한 ORM의 표준 명세  
+- **[JPA (Java Persistence API)](./JPA.md)** : 자바 진영에서 정의한 ORM의 표준 명세  
 - **Hibernate** : JPA의 대표적인 구현체. 영속성 컨텍스트, 캐싱, 지연 로딩 등의 기능 제공  
 - **Spring Data JPA** : JPA를 스프링 환경에서 추상화하여, 기본 CRUD와 쿼리 메서드 기능을 손쉽게 사용할 수 있도록 지원  
 
