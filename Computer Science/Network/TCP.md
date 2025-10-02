@@ -126,6 +126,6 @@ TCP는 **ARQ(Automatic Repeat reQuest)** 기법을 통해 오류 발생 시 데�
 ## 참고 자료
 
 - Brian Storti, [TCP Flow Control](https://www.brianstorti.com/tcp-flow-control/)  
-- Kurose & Ross, *Computer Networking: A Top-Down Approach*  
+- [TCP(흐름제어혼잡제어)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md)
+- [TCP](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/3%20way%20handshake.md)
 - Tanenbaum, *Computer Networks*  
-- 운영체제 및 네트워크 정리 블로그 자료
