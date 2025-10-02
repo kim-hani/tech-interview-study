@@ -4,7 +4,7 @@
 
 ## 1. ORM(Object-Relational Mapping)이란?
 
-**ORM(Object-Relational Mapping)** 은 객체 지향 프로그래밍(OOP)에서 사용하는 **객체(Object)** 와 관계형 데이터베이스(RDB)에서</br> 
+**ORM(Object-Relational Mapping)** 은 객체 지향 프로그래밍(OOP)에서 사용하는 **객체(Object)** 와 **관계형 데이터베이스(RDB)** 에서</br> 
 사용하는 **테이블(Relation)** 간의 불일치를 해소하기 위해 등장한 기술이다.  
 
 
