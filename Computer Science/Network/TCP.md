@@ -4,6 +4,7 @@
 
 ## 1. TCP란?
 
+![TCP 3-HandShake](https://blog.kakaocdn.net/dna/b1zE1m/btsHnq3Mtq0/AAAAAAAAAAAAAAAAAAAAAHPLr31WQY7fga0pStAi-2ZDeOBAu0Qwk2iHUwUovndf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1761922799&allow_ip=&allow_referer=&signature=wOxCJPUpoFIDdH%2FiVI7VGcLyK8w%3D)
 
 - TCP는 **신뢰성 있는 데이터 전송을 지원하는 연결 지향형 프로토콜**이다.
 - 일반적으로 IP와 함께 사용되며, IP가 패킷의 전달(배달)을 담당한다면 TCP는 **패킷의 추적 및 관리**를 담당한다.
