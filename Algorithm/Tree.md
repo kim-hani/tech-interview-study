@@ -4,6 +4,10 @@
 
 ## 1. 트리란?
 
+
+![트리 예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcA6btV%2Fbtq1z5fVwht%2FAAAAAAAAAAAAAAAAAAAAACGpYSURc3HWzHO1phdT3Bnd-UVadN4RazYZC-sKDxN1%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DBCV0FZpzw2IchO0LCgmHV1zcvs0%253D)
+
+
 트리(Tree)는 **계층적 구조를 표현하기 위한 비선형 자료구조**이다.  
 노드(Node)와 간선(Edge)으로 이루어지며, **사이클이 없는 연결 그래프**이다.  
 
@@ -57,16 +61,21 @@
 트리 순회는 **모든 노드를 일정한 규칙에 따라 방문하는 과정**이다.  
 트리는 선형 구조가 아니므로 탐색 순서를 정해야 한다.  
 
+
 ### 전위 순회 (Preorder)  
+
+**현재 노드를 부모 노드로 생각했을 때** 부모 노드 → 왼쪽 자식 노드 → 오른쪽 자식 노드 순서로 방문한다. </br>
 순서: 루트 → 왼쪽 → 오른쪽  
 부모 노드를 먼저 확인하고, 그다음 자식들을 본다.  
 
 ### 중위 순회 (Inorder)  
+**현재 노드를 부모 노드로 생각했을 때** 왼쪽 자식 노드 → 부모 노드 → 오른쪽 자식 노드 순서로 방문한다. </br>
 순서: 왼쪽 → 루트 → 오른쪽  
 왼쪽을 모두 본 후 부모를 확인하고, 그다음 오른쪽을 본다.  
 이진 탐색 트리에서는 중위 순회를 하면 정렬된 결과를 얻을 수 있다.  
 
 ### 후위 순회 (Postorder)  
+**현재 노드를 부모 노드로 생각했을 때** 왼쪽 자식 노드 → 오른쪽 자식 노드 → 부모 노드 순서로 방문한다. </br>
 순서: 왼쪽 → 오른쪽 → 루트  
 자식 노드를 모두 처리한 후 부모를 마지막에 확인한다.  
 하위 요소를 모두 삭제한 뒤 상위 요소를 삭제하는 상황에 유용하다.  
