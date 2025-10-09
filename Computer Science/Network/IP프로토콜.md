@@ -75,6 +75,7 @@ TCP/IP 모델은 보통 **4계층** 또는 **5계층**으로 설명된다. 대�
 ## 4. 패킷 구조 & 전송 흐름
 
 ### 4.1 IP 패킷 구조 (헤더 주요 필드)
+![IP 패킷 구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcotHqu%2FbtrajqbNLIq%2FAAAAAAAAAAAAAAAAAAAAAALR-iONdJZmXwpsjeGku-Gk4KiFRGzcCYr6X0_frkJF%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1761922799%26allow_ip%3D%26allow_referer%3D%26signature%3DbzbtjJKytPBmhUXdIE4fxvzjS1w%253D)
 
 | 필드 | 설명 |
 |-------|------|
