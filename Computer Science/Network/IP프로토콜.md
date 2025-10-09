@@ -46,7 +46,7 @@ TCP/IP 모델은 보통 **4계층** 또는 **5계층**으로 설명된다. 대�
   - **IPv4**: 32비트 주소 체계, 현재 대부분의 인터넷 환경에서 사용  
   - **IPv6**: 128비트 주소 체계, 주소 고갈 문제 해결 목적
 
-### 3.2 [TCP](./TCP%3F.md) (Transmission Control Protocol)
+### 3.2 [TCP](./TCP.md) (Transmission Control Protocol)
 
 - TCP는 전송 계층의 프로토콜로, **신뢰성 있는 데이터 전송**을 제공한다.  
 - **연결 지향(Connection-Oriented)** 방식으로 동작하며, 연결 설정 → 데이터 전송 → 연결 종료 단계를 거친다.  
