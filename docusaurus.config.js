@@ -43,16 +43,6 @@ const config = {
           editUrl:
               'https://github.com/kim-hani/tech-interview-study/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -81,7 +71,6 @@ const config = {
               position: 'left',
               label: '스터디 노트',
             },
-            {to: '/blog', label: '블로그', position: 'left'},
             {
               href: 'https://github.com/kim-hani/tech-interview-study',
               label: 'GitHub',
