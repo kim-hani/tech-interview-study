@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_interview_study=self.webpackChunktech_interview_study||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
