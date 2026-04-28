@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_interview_study=self.webpackChunktech_interview_study||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/tech-interview-study/blog","blogTitle":"Blog","authorsListPath":"/tech-interview-study/blog/authors"}')}}]);
