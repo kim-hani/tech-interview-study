@@ -34,7 +34,7 @@ Heap은 **완전 이진 트리(Complete Binary Tree)** 형태를 가진다.
 
 완전 이진 트리란 마지막 레벨을 제외한 모든 레벨이 채워져 있고, 마지막 레벨은 왼쪽부터 차례대로 채워진 트리이다.
 
-![이진트리](/static/img/이진트리.png)
+![이진트리](../../static/img/이진트리.png)
 
 A(왼쪽)는 완전 이진 트리 이지만 B(오른쪽)는 아니다.
 
@@ -61,7 +61,7 @@ Heap은 크게 두 종류로 나뉜다.
 
 즉, 루트 노드에는 항상 가장 큰 값이 위치한다.
 
-![MaxHeap](/static/img/MaxHeap.png)
+![MaxHeap](../../static/img/MaxHeap.png)
 
 위 트리는 다음 조건을 만족한다.
 
@@ -86,7 +86,7 @@ Max Heap에서는 최댓값을 `O(1)`에 확인할 수 있다.
 
 즉, 루트 노드에는 항상 가장 작은 값이 위치한다.
 
-![MinHeap](/static/img/MinHeap.jpeg)
+![MinHeap](../../static/img/MinHeap.jpeg)
 
 위 트리는 다음 조건을 만족한다.
 
